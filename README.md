@@ -1,2 +1,3 @@
-# gulp-learning
-Learning Gulp
+# Learning Gulp
+
+This is a try to understand the gulp
